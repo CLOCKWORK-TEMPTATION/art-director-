@@ -11,33 +11,12 @@ This folder contains strategic documentation for the CineArchitect AI project, a
 
 ## 📁 الملفات / Files
 
-### 1. [TODO.md](./TODO.md)
-**الخطة الأساسية للنظام / Core System Roadmap**
+### [TODO.md](./TODO.md)
+**خارطة الطريق الشاملة / Comprehensive Roadmap**
 
-يحتوي على الرؤية الشاملة والخطة التفصيلية لتطوير CineArchitect AI، متضمناً:
+يحتوي على الرؤية الشاملة والخطة التفصيلية لتطوير CineArchitect AI، متضمناً 29 مهمة ذات أولوية عالية موزعة على 12 محوراً رئيسياً:
 
-Contains the comprehensive vision and detailed roadmap for developing CineArchitect AI, including:
-
-- **المحور الأول:** الهيكلية الأساسية المُحسّنة
-  - Enhanced Core Architecture
-  - Hybrid-First Architecture (Local + Cloud)
-  - Plugin System
-  - Open API for Integration
-
-- **المحور الثاني:** الوحدات البرمجية المدمجة والمطوّرة
-  - 5 Integrated & Evolved Core Modules:
-    1. مُحلل السيناريو الذكي / AI-Powered Production Hub
-    2. مولد الهوية البصرية / Immersive Concept Art Studio
-    3. الآلة الحاسبة السينمائية / Virtual Production & Pre-visualization Engine
-    4. مدير التنفيذ والميزانية / Collaborative Resource & Asset Management
-    5. سجل الاستمرارية / Comprehensive Continuity & Archive System
-
-### 2. [ADDITIONAL_TOOLS_IDEAS.md](./ADDITIONAL_TOOLS_IDEAS.md)
-**أفكار أدوات ذكية إضافية / Additional Intelligent Tools Ideas**
-
-بناءً على تحليل الخطة الأساسية، يقدم هذا الملف 20 فكرة مبتكرة لأدوات ذكية إضافية، مصنفة في 9 مجموعات:
-
-Based on analysis of the core roadmap, this file presents 20 innovative additional tool ideas, organized in 9 categories:
+Contains the comprehensive vision and detailed roadmap for developing CineArchitect AI, including 29 high-priority tasks across 12 main axes:
 
 1. **أدوات الذكاء الاصطناعي التحليلية والتنبؤية** (3 أدوات)
    - AI Analytics & Predictive Tools (3 tools)
@@ -66,11 +45,18 @@ Based on analysis of the core roadmap, this file presents 20 innovative addition
 9. **أدوات التفاعل مع الجمهور والتسويق** (2 أدوات)
    - Audience Engagement & Marketing Tools (2 tools)
 
+10. **الهيكلية الأساسية المُحسّنة** (3 أدوات)
+    - Enhanced Core Architecture (Hybrid-First, Plugin System, Open API)
+
+11. **الوحدات البرمجية المدمجة والمطوّرة** (5 أدوات)
+    - Integrated & Evolved Core Modules
+
+12. **الرؤية المستقبلية** (1 مهمة)
+    - Future Vision (Ecosystem Integration)
+
 ---
 
-## 🎯 الأدوات الإضافية المقترحة / Proposed Additional Tools
-
-### أبرز الأدوات / Highlighted Tools:
+## 🎯 أبرز الأدوات المقترحة / Key Proposed Tools
 
 1. **محلل الاتساق البصري الذكي** - AI Visual Consistency Analyzer
    - يستخدم Computer Vision لضمان الاتساق البصري عبر جميع المشاهد
@@ -96,7 +82,8 @@ Based on analysis of the core roadmap, this file presents 20 innovative addition
 8. **منصة Behind-the-Scenes الذكية** - Smart Behind-the-Scenes Platform
    - يوثق ويشارك عملية الإنتاج للتسويق وإشراك الجمهور
 
-... وأكثر من 12 أداة إضافية في الملف الكامل!
+... وأكثر من 20 أداة إضافية في TODO.md!
+   - ... and 20+ additional tools in TODO.md!
 
 ---
 
@@ -180,11 +167,14 @@ This suite of tools transforms CineArchitect AI into:
 
 ## 🎬 للبدء / Getting Started
 
-1. **اقرأ TODO.md** لفهم الرؤية الأساسية والوحدات الخمس الرئيسية
-2. **راجع ADDITIONAL_TOOLS_IDEAS.md** للاطلاع على الأدوات الإضافية المقترحة
-3. **حدد الأولويات** بناءً على احتياجات مشروعك الحالي
-4. **ابدأ بالمرحلة الأولى** من استراتيجية التنفيذ المقترحة
-5. **تابع التطوير التدريجي** حسب الموارد المتاحة
+1. **اقرأ TODO.md** لفهم الرؤية الشاملة والمهام الـ 29 ذات الأولوية العالية
+   - Read TODO.md to understand the comprehensive vision and all 29 high-priority tasks
+2. **حدد الأولويات** بناءً على احتياجات مشروعك الحالي
+   - Prioritize based on your current project needs
+3. **ابدأ بالمرحلة الأولى** من استراتيجية التنفيذ المقترحة
+   - Start with Phase 1 of the proposed implementation strategy
+4. **تابع التطوير التدريجي** حسب الموارد المتاحة
+   - Continue gradual development based on available resources
 
 ---
 
@@ -200,4 +190,4 @@ For any questions or suggestions to improve these tools, please open an Issue in
 
 **الحالة / Status:** ✅ مكتمل التوثيق / Documentation Complete
 
-**الإصدار / Version:** 1.0
+**الإصدار / Version:** 1.1
