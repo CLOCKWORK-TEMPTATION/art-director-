@@ -1,7 +1,9 @@
 # أفكار أدوات ذكية إضافية لمساعدة الارت ديركتور
 # Additional Intelligent Tools Ideas for Art Directors
 
-بناءً على تحليل الخطة الموجودة في ملف TODO.md، نقدم هنا مجموعة من الأفكار المبتكرة لأدوات ذكية ومتطورة إضافية تكمل النظام البيئي الحالي وتعزز قدرات الـ Art Director في صناعة الأفلام والمسلسلات.
+بناءً على تحليل الخطة الموجودة في ملف TODO.md، نقدم هنا مجموعة من الأفكار المبتكرة لأدوات ذكية ومتطورة إضافية. هذه الأدوات تكمل النظام البيئي الحالي وتعزز قدرات الـ Art Director في صناعة الأفلام والمسلسلات بشكل شامل ومتكامل.
+
+Based on the analysis of the plan in TODO.md, we present here a collection of innovative ideas for additional intelligent and advanced tools. These tools complement the current ecosystem and comprehensively enhance the capabilities of Art Directors in film and TV series production.
 
 ---
 
@@ -413,13 +415,18 @@
    - محسّن إعادة استخدام الديكورات (#14)
    - منصة Behind-the-Scenes الذكية (#20)
 
-### نقاط التكامل الرئيسية:
+### نقاط التكامل الرئيسية / Key Integration Points:
 
-- **التكامل مع النظام الأساسي:** جميع هذه الأدوات مصممة للعمل بسلاسة مع الوحدات الخمس الأساسية المذكورة في TODO.md
-- **البنية الهجينة:** كل أداة تدعم النموذج الهجين (local-first مع مزامنة سحابية)
+- **التكامل مع النظام الأساسي / Core System Integration:** جميع هذه الأدوات مصممة للعمل بسلاسة مع الوحدات الخمس الأساسية المذكورة في TODO.md
+  - All these tools are designed to work seamlessly with the five core modules mentioned in TODO.md
+- **البنية الهجينة / Hybrid Architecture:** كل أداة تدعم النموذج الهجين (local-first مع مزامنة سحابية)
+  - Each tool supports the hybrid model (local-first with cloud sync)
 - **Plugin System:** يمكن تطبيق معظم هذه الأدوات كإضافات (Plugins) للنظام الأساسي
+  - Most of these tools can be implemented as Plugins for the core system
 - **Open API:** جميع الأدوات توفر APIs للتكامل مع الأنظمة الخارجية
-- **واجهات موحدة:** تصميم UI/UX متسق عبر جميع الأدوات
+  - All tools provide APIs for integration with external systems
+- **واجهات موحدة / Unified Interfaces:** تصميم UI/UX متسق عبر جميع الأدوات
+  - Consistent UI/UX design across all tools
 
 ### القيمة المضافة:
 
